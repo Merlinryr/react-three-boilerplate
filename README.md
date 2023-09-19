@@ -1,7 +1,4 @@
 # react-three-boilerplate
 
 
-<h1>Standard boilerplate for @react-three/fiber and webGL</h1>
-<br><br>
-
-Boilerplate for basic r3f and webGL experiments
+<h1>Standard template for @react-three/fiber and webGL</h1>
